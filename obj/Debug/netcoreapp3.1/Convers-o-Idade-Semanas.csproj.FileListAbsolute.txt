@@ -1,0 +1,13 @@
+C:\Users\erika\Desktop\PROJETOS SENAI\Convers-o-Idade-Semanas\bin\Debug\netcoreapp3.1\Convers-o-Idade-Semanas.exe
+C:\Users\erika\Desktop\PROJETOS SENAI\Convers-o-Idade-Semanas\bin\Debug\netcoreapp3.1\Convers-o-Idade-Semanas.deps.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Convers-o-Idade-Semanas\bin\Debug\netcoreapp3.1\Convers-o-Idade-Semanas.runtimeconfig.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Convers-o-Idade-Semanas\bin\Debug\netcoreapp3.1\Convers-o-Idade-Semanas.runtimeconfig.dev.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Convers-o-Idade-Semanas\bin\Debug\netcoreapp3.1\Convers-o-Idade-Semanas.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Convers-o-Idade-Semanas\bin\Debug\netcoreapp3.1\Convers-o-Idade-Semanas.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Convers-o-Idade-Semanas\obj\Debug\netcoreapp3.1\Convers-o-Idade-Semanas.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Convers-o-Idade-Semanas\obj\Debug\netcoreapp3.1\Convers-o-Idade-Semanas.AssemblyInfoInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Convers-o-Idade-Semanas\obj\Debug\netcoreapp3.1\Convers-o-Idade-Semanas.AssemblyInfo.cs
+C:\Users\erika\Desktop\PROJETOS SENAI\Convers-o-Idade-Semanas\obj\Debug\netcoreapp3.1\Convers-o-Idade-Semanas.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Convers-o-Idade-Semanas\obj\Debug\netcoreapp3.1\Convers-o-Idade-Semanas.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Convers-o-Idade-Semanas\obj\Debug\netcoreapp3.1\Convers-o-Idade-Semanas.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Convers-o-Idade-Semanas\obj\Debug\netcoreapp3.1\Convers-o-Idade-Semanas.genruntimeconfig.cache

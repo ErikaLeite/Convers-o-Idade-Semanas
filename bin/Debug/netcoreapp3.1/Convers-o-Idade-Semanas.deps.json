@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Convers-o-Idade-Semanas/1.0.0": {
+        "runtime": {
+          "Convers-o-Idade-Semanas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Convers-o-Idade-Semanas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
