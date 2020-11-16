@@ -12,8 +12,11 @@ namespace Convers_o_Idade_Semanas
             Console.Write("Em que ano você nasceu? ");
             int anoNasc = int.Parse(Console.ReadLine());
 
-            //int sub = (anoAtual - anoNasc);
-            //Console.Write("");
+            int sub = (anoAtual - anoNasc);
+            //Console.Write("Você tem: "+sub+" anos de idade");
+
+            int sem = sub * 53;
+            Console.Write("Você tem: "+sem+" semanas de idade");
 
             
         }
